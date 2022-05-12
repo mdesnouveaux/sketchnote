@@ -1,0 +1,11 @@
+---
+title: Accueil
+eleventyExcludeFromCollections: true
+description: Papa codeur, papa joueur / Acrobate de l'informatique / Parfois je dessine des flèches et des carrés #php #sketchnote
+---
+<h2>Les 5 derniers sketchs</h2>
+<ul>
+    {%- for page in collections.sketch | reverse | limit(5) -%}
+        <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+    {%- endfor -%}
+</ul>

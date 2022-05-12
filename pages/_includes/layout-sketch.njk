@@ -1,0 +1,38 @@
+---
+layout: layout.njk
+title: My Rad Blog
+---
+
+{% set previous = -1 %}
+{% set next = -1 %}
+{% set reversed = collections.sketch | reverse %}
+<br/>
+{# on parcours la liste des pages qui ont le tag "sketch" #}
+    {%- for s in reversed -%}
+        {% if s.url == page.url %}
+            {% set previous = loop.index0-1 %}
+            {% set next = loop.index0+1 %}
+        {% endif %}
+
+    {%- endfor -%}
+<br/>
+
+<nav style="display: flex; justify-content: space-between">
+    <div>
+        {# lien précédent #}
+        {% if previous > -1 %}
+            {% set p = reversed[previous] %}
+            <a href="{{ p.url }}"> &lt;&lt; {{ p.data.title }}</a>
+        {% endif %}
+    </div>
+    <div>
+        {# lien suivant #}
+        {% if next < collections.sketch.length %}
+            {% set p = reversed[next] %}
+            <a href="{{ p.url }}"> &gt;&gt; {{ p.data.title }}</a>
+        {% endif %}
+    </div>
+</nav>
+
+<h2>{{ title }}</h2>
+{{ content | safe }}
