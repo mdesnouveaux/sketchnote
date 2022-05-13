@@ -6,3 +6,7 @@ date: 2021-03-11
 ---
 
 ![](39_Eco-Conception_2021-03-11.jpg) 
+
+<p>
+    J'ai réalisé ce sketchnote suite à la présentaiton du guide d'éco-conception visant à donner des outils et des guide pour concevoir des sites et des applications plus sobres.
+</p>

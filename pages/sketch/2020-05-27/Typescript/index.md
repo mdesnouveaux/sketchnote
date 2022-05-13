@@ -6,3 +6,8 @@ date: 2020-05-27
 ---
 
 ![](13_Typescript_2020-05-27.jpg) 
+
+<p>
+    Ce sketchnote à été réalisé après une présentation aux AperoWeb Nancy consacré à typescript.<br>
+    La présentation a été faite par Delia Solutions.
+</p>
