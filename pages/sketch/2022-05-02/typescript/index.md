@@ -1,7 +1,8 @@
 ---
 tags: sketch
 title: Typescript
-description: Papa codeur, papa joueur / Acrobate de l'informatique / Parfois je dessine des flèches et des carrés #php #sketchnote
+description: Typescript (2022-05-02)
+date: 2022-05-02
 ---
 
-![](sketch.jpeg) 
+![](66_Typescript_2022-05-02.jpg) 

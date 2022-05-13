@@ -1,7 +1,8 @@
 ---
 tags: sketch
-title: Buzz Création d'un langage de programmation
-description: Papa codeur, papa joueur / Acrobate de l'informatique / Parfois je dessine des flèches et des carrés #php #sketchnote
+title: Buzz
+description: Buzz (2022-05-09)
+date: 2022-05-09
 ---
 
-![](sketch.jpeg) 
+![](67_Buzz_2022-05-09.jpg) 

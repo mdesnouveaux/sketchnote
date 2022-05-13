@@ -5,7 +5,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setTemplateFormats([
     "md",
     "njk",
-    "jpeg" // jpeg is not yet a recognized template extension in Eleventy
+    "jpeg",
+    "jpg" // jpeg is not yet a recognized template extension in Eleventy
   ]);
 
   eleventyConfig.addNunjucksFilter("vardump", d => console.log(d));
