@@ -1,7 +1,7 @@
 ---
 tags: sketch
-title: Comment-Arte-a-simplifie-le-developpement-multi-plateforme
-description: Comment-Arte-a-simplifie-le-developpement-multi-plateforme (2020-11-26)
+title: Comment Arte a simplifié le developpement multi plateforme
+description: Comment Arte a simplifié le developpement multi plateforme (2020-11-26)
 date: 2020-11-26
 video: https://www.youtube.com/watch?v=3pXeIusZo64
 ---

@@ -1,7 +1,7 @@
 ---
 tags: sketch
-title: Le-pouvoir-insoupconne-des-developpeurs
-description: Le-pouvoir-insoupconne-des-developpeurs (2020-09-30)
+title: Le pouvoir insoupconné des développeurs
+description: Le pouvoir insoupconné des développeurs (2020-09-30)
 date: 2020-09-30
 ---
 
