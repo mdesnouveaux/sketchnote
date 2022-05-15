@@ -1,0 +1,14 @@
+---
+title: Sketchnotes
+eleventyExcludeFromCollections: true
+description: Papa codeur, papa joueur / Acrobate de l'informatique / Parfois je dessine des flèches et des carrés #php #sketchnote
+---
+<h2>L'ensemble de mes sketchnotes</h2>
+<p>
+    J'ai regroupé ci-dessous l'ensemble des sketchnotes que je partage depuis 2019.
+</p>
+<ul>
+    {%- for page in collections.sketch | reverse -%}
+        <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+    {%- endfor -%}
+</ul>
