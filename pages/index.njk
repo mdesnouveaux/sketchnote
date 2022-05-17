@@ -3,9 +3,18 @@ title: Accueil
 eleventyExcludeFromCollections: true
 description: Papa codeur, papa joueur / Acrobate de l'informatique / Parfois je dessine des flèches et des carrés #php #sketchnote
 ---
-<h2>Les 5 derniers sketchs</h2>
+
+<p>
+    Bonjour, je suis Mathieu Desnouveaux, développeur et sketchnoteur.<br>
+    Je partage ma pratique du sketchnoting sur ce site et sur mes réseaux sociaux.<br>
+    <a href="/a-propos">En savoir plus</a>
+</p>
+
+<h2>Les 5 dernières sketchnotes</h2>
 <ul>
     {%- for page in collections.sketch | reverse | limit(5) -%}
         <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
     {%- endfor -%}
 </ul>
+
+<a href="/sketchnotes">Toutes mes sketchnotes</a>
