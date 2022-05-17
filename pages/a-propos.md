@@ -17,9 +17,9 @@ J'utilise également cette pratique pour partager des connaissances, mais égale
 ### Sketchnotes
 
 Les sketchnotes sont des « notes visuelles riches mêlant écriture manuscrite, dessins, calligraphie, formes et éléments visuels tel que des flèches, des boîtes et des lignes. » 
-Cette définition nous est donnée par Mike Rohde, L'une des personnes qui ont mis un nom sur cette pratique. 
+Cette définition nous est donnée par Mike Rohde, l'une des personnes qui ont mis un nom sur cette pratique. 
 
-Basé sur des éléments simples, il ne s'agit pas d'une commpétence demandant des talents artistiques. En effet, il s'agit de clarifier et représenter simplement des idées et des concepts par le dessin. Utilisée en réunion, atelier ou en conférence, cette technique, qu'on la pratique pour soi ou qu'on en partage le résultat, s'adapte à de nombreuses situations.
+Basé sur des éléments simples, il ne s'agit pas d'une compétence demandant des talents artistiques. En effet, il s'agit de clarifier et représenter simplement des idées et des concepts par le dessin. Utilisée en réunion, atelier ou en conférence, cette technique, qu'on la pratique pour soi ou qu'on en partage le résultat, s'adapte à de nombreuses situations.
 
 ### Talk
 
