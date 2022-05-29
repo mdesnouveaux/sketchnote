@@ -3,9 +3,10 @@ tags: sketch
 title: Sablier
 description: Sablier (2020-09-07)
 date: 2020-09-07
+image: 28_Sablier_2020-09-07.jpeg
 ---
 
-![](28_Sablier_2020-09-07.jpeg) 
+![]({{ image }}) 
 
 <p>
     Ce sketchnote à été réalisé dans le cadre d'un challenge de sketchnote. 

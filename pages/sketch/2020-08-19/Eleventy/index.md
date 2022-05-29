@@ -3,12 +3,13 @@ tags: sketch
 title: Eleventy
 description: Eleventy (2020-08-19)
 date: 2020-08-19
+image: 27_Eleventy_2020-08-19.jpeg
 ---
 
-![](27_Eleventy_2020-08-19.jpeg) 
+![]({{ image }}) 
 
 <p>
     Ce sketchnote à été réalisé dans le cadre d'un challenge de sketchnote. 
     Le thème était de raconté en sketchnotequelque chose qu'on avait appris dans la semaine.<br>
-    J'ai choisis Eleventy qui motorise ce site.
+    J'ai choisi Eleventy qui motorise ce site.
 </p>

@@ -3,9 +3,10 @@ tags: sketch
 title: Docker en prod
 description: Docker en prod (2019-12-11)
 date: 2019-12-11
+image: 05_Docker-en-prod_2019-12-11.jpg
 ---
 
-![](05_Docker-en-prod_2019-12-11.jpg) 
+![]({{ image }}) 
 
 <p>
     Ce sketchnote à été réalisé après une présentation à l'Afup Lorraine 

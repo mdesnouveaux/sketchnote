@@ -3,9 +3,10 @@ tags: sketch
 title: bunny challenge 2
 description: bunny challenge 2 (2020-07-14)
 date: 2020-07-14
+image: 21_bunny-challenge-2_2020-07-14.jpeg
 ---
 
-![](21_bunny-challenge-2_2020-07-14.jpeg) 
+![]({{ image }}) 
 
 <p>
     Ce sketchnote à été réalisé dans le cadre d'un challenge de sketchnote. 

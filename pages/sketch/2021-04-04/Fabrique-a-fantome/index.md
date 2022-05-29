@@ -3,9 +3,10 @@ tags: sketch
 title: Fabrique à fantôme
 description: Fabrique à fantôme (2021-04-04)
 date: 2021-04-04
+image: 42_Fabrique-a-fantome_2021-04-04.jpg
 ---
 
-![](42_Fabrique-a-fantome_2021-04-04.jpg) 
+![]({{ image }}) 
 
 <p>
     La fabrique à fanntôme est une machine inventé par mon fils,
